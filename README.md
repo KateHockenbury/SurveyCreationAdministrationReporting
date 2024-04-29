@@ -2,15 +2,15 @@
 A survey creation tool. 
 
 <h4>Steps to run the program:</h4>
-<p>This tool was created using Visual Studio Code as the IDE but any IDE would work.
-1) Download Node.js from the offical website https://nodejs.org/
-2) Follow these dicrections spefic to your operating system: https://kinsta.com/blog/how-to-install-node-js/
-3) You will need to clone this repository to you IDE and use the terminal in the IDE to install the following:
+<p>This tool was created using Visual Studio Code as the IDE but any IDE would work.</p>
+<p>1) Download Node.js from the offical website https://nodejs.org/</p>
+<p>2) Follow these dicrections spefic to your operating system: https://kinsta.com/blog/how-to-install-node-js/</p>
+<p>3) You will need to clone this repository to you IDE and use the terminal in the IDE to install the following:</p>
 - React: npm install react
 - Material-UI: npm install @mui/material @emotion/react @emotion/styled
 - Icons: npm install @mui/icons-material
 - Excel: npm install xlsx
-4) Then when you have no errors and are ready to run the code, in the terminal write " npm run build " this allows for hot relaod evrythime you save new changes to the code. Then type " npm start " to actually launch the application. When you make changes use CTRL+S or CMD+S to save and the application will reload with the changes. 
+<p>4) Then when you have no errors and are ready to run the code, in the terminal write " npm run build " this allows for hot relaod evrythime you save new changes to the code. Then type " npm start " to actually launch the application. When you make changes use CTRL+S or CMD+S to save and the application will reload with the changes. 
 </p>
 <h4>Important Files: </h4>
 App.js is the main part of the code where the layput of the webpage is and the create question element function. As well as the printing and excel funstions. 
