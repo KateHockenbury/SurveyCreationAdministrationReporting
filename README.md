@@ -1,8 +1,8 @@
 # SurveyCreationAdministrationReporting
 A survey creation tool. 
 
-<h2>Steps to run the program:<h2>
-This tool was created using Visual Studio Code as the IDE but any IDE would work.
+<h3>Steps to run the program:</h3>
+<p>This tool was created using Visual Studio Code as the IDE but any IDE would work.
 1) Download Node.js from the offical website https://nodejs.org/
 2) Follow these dicrections spefic to your operating system: https://kinsta.com/blog/how-to-install-node-js/
 3) You will need to clone this repository to you IDE and use the terminal in the IDE to install the following:
@@ -11,7 +11,7 @@ This tool was created using Visual Studio Code as the IDE but any IDE would work
 - Icons: npm install @mui/icons-material
 - Excel: npm install xlsx
 4) Then when you have no errors and are ready to run the code, in the terminal write " npm run build " this allows for hot relaod evrythime you save new changes to the code. Then type " npm start " to actually launch the application. When you make changes use CTRL+S or CMD+S to save and the application will reload with the changes. 
-
+</p>
 Important Files: 
 App.js is the main part of the code where the layput of the webpage is and the create question element function. As well as the printing and excel funstions. 
 App.css is where all the CSS dependancies are.
